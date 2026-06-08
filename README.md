@@ -1,3 +1,4 @@
+LGD Live Prediction Dashboard on HuggingFace using Streamlit -  https://huggingface.co/spaces/KajolDave/credit-risk-lgd-dashboard
 # LGD Modeling & Expected Loss Estimation
 ### Freddie Mac Single-Family Loan-Level Dataset · Python · XGBoost · Beta Regression · SQL · Matplotlib
 
